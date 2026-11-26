@@ -1,0 +1,20 @@
+{
+  "title": "Anime Database",
+  "description": "Android-applikasjon utviklet i Kotlin hvor brukeren kan utforske, søke etter og organisere anime-serier ved hjelp av Jikan API.",
+  "category": "kristiania",
+  "grade": "A",
+  "featured": true,
+  "legacyId": 1,
+  "thumbnail": "docs/portfolio/animedatabasethumbnail.jpg",
+  "screenshots": [
+    "docs/portfolio/animedatabase-1.jpg",
+    "docs/portfolio/animedatabase-2.jpg",
+    "docs/portfolio/animedatabase-3.jpg",
+    "docs/portfolio/animedatabase-4.jpg"
+  ],
+  "sections": [
+    "Oversikt",
+    "Teknologi",
+    "Arkitektur"
+  ]
+}
